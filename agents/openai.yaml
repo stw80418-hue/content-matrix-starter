@@ -1,0 +1,5 @@
+interface:
+  display_name: "內容矩陣入門"
+  short_description: "從品牌定位與受眾需求，建立清楚可執行的社群內容矩陣"
+  default_prompt: "使用 $content-matrix-starter，帶我從品牌與受眾資料建立內容矩陣。"
+
